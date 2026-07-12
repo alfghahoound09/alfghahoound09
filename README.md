@@ -14,6 +14,13 @@
 
 ---
 
+### 🚀 Projects
+(University Assigned Projects)
+**[Auction System](https://github.com/25023520-stack/BaiTapLonNhom9)**  
+A Java-based online auction system built with JavaFX, TCP sockets, MVC rule and MySQL.  
+This was my first project deploying CI/CD with GitHub Actions and a local Docker server — a great hands-on introduction to DevOps and infrastructure in a real-world setup.
+
+`Java` `JavaFX` `MySQL` `Docker` `CI/CD` `GitHub Actions`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,java,git,github,docker" />
 </p>
