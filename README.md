@@ -22,5 +22,5 @@ This was my first project deploying CI/CD with GitHub Actions and a local Docker
 
 `Java` `JavaFX` `MySQL` `Docker` `CI/CD` `GitHub Actions`
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,java,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker" />
 </p>
