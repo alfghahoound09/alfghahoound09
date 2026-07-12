@@ -4,7 +4,7 @@
 ---
 
 ### 🎓 About Me
-- 📍 Currently studying **Computer Network And Data Communications** at **UET-VNU** (K70-CN15)
+- 📍 Currently studying **Computer Network And Data Communications** at **UET-VNU** (K70-CN15) (Graduation expected year: 2029 or may be longer idk )
 - 🌐 Languages: **English** / **Vietnamese**
 
 ### 💻 What I'm passionate about
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects ( Updating )
 (University Assigned Projects)
 **[Auction System](https://github.com/25023520-stack/BaiTapLonNhom9)**  
 A Java-based online auction system built with JavaFX, TCP sockets, MVC rule and MySQL.  
