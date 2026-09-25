@@ -10,7 +10,7 @@
 ### 💻 What I'm passionate about
 - 🖥️ **Technology** — laptops, phones, and gaming devices
 - ⚙️ **System stability** — setting up systems that just work, flawlessly
-- 🐧 **Linux** — currently on Linux Mint, exploring other distros soon
+- 🐧 **Linux** — currently on Linux Mint, exploring other distros soon ( regular user )
 
 ---
 ### 🚀 Personal Projects ( Updating )
