@@ -13,8 +13,11 @@
 - 🐧 **Linux** — currently on Linux Mint, exploring other distros soon
 
 ---
-
-### 🚀 Projects ( Updating )
+### 🚀 Personal Projects ( Updating )
+**[QuocSchedule](https://github.com/alfghahoound09/QuocSchedule)**
+A dedicated schedule app coded by Claude ( ai slop, I know, but it works ) built as an alternative to my uni's schedule system — that one is so shit, so many bugs and disconnect errors, so I decided to just make my own.
+---
+### 🚀 Uni Projects ( Updating )
 (University Assigned Projects)
 **[Auction System](https://github.com/25023520-stack/BaiTapLonNhom9)**  
 A Java-based online auction system built with JavaFX, TCP sockets, MVC rule and MySQL.  
@@ -24,3 +27,5 @@ This was my first project deploying CI/CD with GitHub Actions and a local Docker
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker" />
 </p>
+
+
